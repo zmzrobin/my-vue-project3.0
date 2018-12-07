@@ -1,0 +1,17 @@
+@import "mixin";
+
+/*变量设置*/
+//headbar
+$headbar-background-color:#000;
+$headbar-color:#fff;
+$headbar-active-color:#fff;
+//footbar
+$footbar-background-color:#fff;
+$footbar-active-background-color:#999;
+$footbar-color:#333;
+$footbar-active-color:#495AFF;
+
+$page-background-color:#f5f5f5;
+$a-link-default:#0097E1;   //a连接默认颜色
+$border-color-default:#dcdcdc;   //边框默认颜色
+$input-border-color-default:#dddd;   //输入框边框默认颜色
